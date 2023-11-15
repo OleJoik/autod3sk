@@ -72,9 +72,7 @@ function App() {
         <button
           style={{ marginTop: "13px", width: "80%", height: "60px" }}
           onClick={() => {
-            alert(
-              "Installing archv1ruz very big danger. Click Ok to continue..."
-            );
+            alert("U clic on me?");
           }}
         >
           Save

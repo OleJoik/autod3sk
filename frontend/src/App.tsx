@@ -68,6 +68,17 @@ function App() {
           <label htmlFor="">Time</label>
           <input style={{ height: "60px" }} type="text" name="" id="" />
         </div>
+
+        <button
+          style={{ marginTop: "13px", width: "80%", height: "60px" }}
+          onClick={() => {
+            alert(
+              "Installing archv1ruz very big danger. Click Ok to continue..."
+            );
+          }}
+        >
+          Save
+        </button>
       </div>
     </>
   );
